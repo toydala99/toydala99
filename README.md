@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is António Dala a.k.a Toy Dala
 
-<!--
+<
 **toydala99/toydala99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 
--->
+>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
